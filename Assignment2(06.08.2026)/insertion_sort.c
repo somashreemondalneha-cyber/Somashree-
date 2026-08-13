@@ -1,4 +1,4 @@
-/*Insertion Sort /*
+// Insertion Sort.
 
 #include <stdio.h>
 
