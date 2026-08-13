@@ -1,3 +1,5 @@
+/*Insertion Sort /*
+
 #include <stdio.h>
 
 int main()
@@ -6,7 +8,6 @@ int main()
     int n = 10;
     int i, j, key;
 
-    // Insertion Sort
     for(i = 1; i < n; i++)
     {
         key = marks[i];
