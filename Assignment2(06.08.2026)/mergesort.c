@@ -87,7 +87,7 @@ int main()
         printf("%d ", marks[i]);
     }
 
-    printf("\n\nLowest marks = %d", marks[0]);
+    printf("\nLowest marks = %d", marks[0]);
     printf("\nHighest marks = %d", marks[9]);
 
     return 0;
